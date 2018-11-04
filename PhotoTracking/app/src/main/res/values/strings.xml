@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoTracking</string>
+    <string name="title_home">Photos</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="deleted_images">Deleted Photos</string>
+    <string name="images">Photos</string>
+</resources>
