@@ -1,5 +1,5 @@
 # android-app-photo-tracker
-This app traces all the photo recodes. If any photo get deleted, you can check this list .
+This app traces all the photo recodes. If any photo gets deleted, you can check this list .
 
 
 Steps to import in Android studio
